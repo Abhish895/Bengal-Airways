@@ -302,6 +302,13 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                {
+                    "name": "Bengal Airways"
+                    "texture": [
+                        "https://raw.githubusercontent.com/Abhish895/Bengal-Airways/refs/heads/main/Bengal_Airways_-_Boeing_737_MAX_8_1.webp"
+                    ],
+                    "credits": "Nichy"
+                }
             ],
             "labels": [
                 "Texture"
